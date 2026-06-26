@@ -1,0 +1,40 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260626-160739-8k53",
+      "title": "X S O L O",
+      "commanders": [
+        "X S O L O"
+      ],
+      "dateStart": "2026-06-26T10:37:39.000Z",
+      "dateEnd": "2026-06-26T11:04:24.000Z",
+      "dateLabel": "6/26/2026, 4:07:39 PM - 6/26/2026, 4:34:24 PM",
+      "url": "https://Sayak-Saha.github.io/GW2logs/?report=20260626-160739-8k53",
+      "summary": {
+        "borderlandsPct": 0.011494252873563218,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 172,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 18
+      }
+    }
+  ]
+}
